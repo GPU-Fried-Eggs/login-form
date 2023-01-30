@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="header">Login</string>
+    <string name="account">Account</string>
+    <string name="account_placeholder">Enter Account</string>
+    <string name="password">Password</string>
+    <string name="password_placeholder">Enter Password</string>
+    <string name="submit">Submit</string>
+</resources>
